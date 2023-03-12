@@ -11,7 +11,7 @@ public class Main {
 //         int number3=43;
 //         int sum=number1+number2+number3;
 //        System.out.println("sum is :" +sum);
-
+ System.out.println("sum is :" +sum);
 //          int number1;
 //          int number2;
 //
@@ -25,11 +25,5 @@ public class Main {
 //          int sum = number1+number2;
 //
 //        System.out.println("sum is :" +sum);
-
-
-
-
-
-
     }
 }
